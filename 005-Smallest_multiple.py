@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+
+
 def d():
     i = 1
     while True:
@@ -10,4 +13,6 @@ def d():
                 break
         if i % 100000 == 0:
             print(i)
+
+
 print(d())

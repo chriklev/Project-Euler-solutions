@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 s = 10
 for x in range(7, 2000001, 2):
     for y in range(2, int((x / 2) + 1)):

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 a = [1, 2]
 b = 0
 while a[a.count("") - 1] < 4000000:

@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 a = sum(range(101))**2
 b = 0
 for i in range(101):

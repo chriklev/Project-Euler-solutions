@@ -1,4 +1,7 @@
+#!/usr/bin/python3
+
 l = list()
+
 
 def revint(a):
     st = ""
@@ -8,6 +11,7 @@ def revint(a):
     for i in f:
         st += i
     return(int(st))
+
 
 for a in range(100, 999):
     for b in range(100, 999):

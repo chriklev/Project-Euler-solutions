@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 i = 2
 a = 2
 while a <= 10001:

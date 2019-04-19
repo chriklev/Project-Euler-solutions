@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 a = 600851475143
 pf = [a]
 i = 2
